@@ -1,2 +1,2 @@
 # darkstream
-Server software for dark.stream
+Client and server software for dark.stream
